@@ -10,7 +10,8 @@ const discountCodes = [
     page: 'https://vindekoder.cz/carvertical-slevove-kody/',
     title: 'carVertical Slevové Kódy',
     button: 'carVertical Slevové Kódy',
-    discount_code: 'SLEVA'
+    discount_code: 'SLEVA',
+    percentage: '20%'
   }
 ];
 

@@ -36,9 +36,9 @@ console.log(codes)
 
 ## Available Discount Codes
 
-| Country | Website | Page | Title | Button | Discount Code |
-|---------|---------|------|-------|--------|---------------|
-| Czech Republic | [vindekoder.cz](https://vindekoder.cz/) | [carvertical-slevove-kody](https://vindekoder.cz/carvertical-slevove-kody/) | carVertical Slevové Kódy | carVertical Slevové Kódy | SLEVA |
+| Country | Website | Page | Title | Button | Discount Code | Percentage |
+|---------|---------|------|-------|--------|---------------|------------|
+| Czech Republic | [vindekoder.cz](https://vindekoder.cz/) | [carvertical-slevove-kody](https://vindekoder.cz/carvertical-slevove-kody/) | carVertical Slevové Kódy | carVertical Slevové Kódy | SLEVA | 20% |
 
 ## About
 
